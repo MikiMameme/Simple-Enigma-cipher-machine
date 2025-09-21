@@ -58,4 +58,4 @@ C言語で実装した**簡易エニグマ暗号プログラム**です。
 
 ---
 
-👤 **Author**: 神酒まめ[MikiMameme]
+👤 **Author**: [神酒まめ(https://github.com/MikiMameme)]
